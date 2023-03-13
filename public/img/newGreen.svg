@@ -1,0 +1,53 @@
+  <svg
+      width="616"
+      height="616"
+      viewBox="0 0 516 436"
+      
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <g opacity="0.4" filter="url(#filter0_i_74_1521)">
+        <path
+          d="M499.469 84.4817L515.984 303.861L481.759 408.726L311.295 435.597L239.003 274.57L123.588 313.343L10.0585 137.368L-5.74887e-05 3.74619L278.567 0.827549L349.099 111.846L499.469 84.4817Z"
+          fill="#43D9AD"
+        />
+      </g>
+      <defs>
+        <filter
+          id="filter0_i_74_1521"
+          x="0"
+          y="0.827515"
+          width="616"
+          height="616"
+          
+          filterUnits="userSpaceOnUse"
+          color-interpolation-filters="sRGB"
+        >
+          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feBlend
+            mode="normal"
+            in="SourceGraphic"
+            in2="BackgroundImageFix"
+            result="shape"
+          />
+          <feColorMatrix
+            in="SourceAlpha"
+            type="matrix"
+            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+            result="hardAlpha"
+          />
+          <feOffset dy="4" />
+          <feGaussianBlur stdDeviation="87" />
+          <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+          <feColorMatrix
+            type="matrix"
+            values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+          />
+          <feBlend
+            mode="normal"
+            in2="shape"
+            result="effect1_innerShadow_74_1521"
+          />
+        </filter>
+      </defs>
+    </svg>
